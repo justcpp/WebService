@@ -1,0 +1,6 @@
+H:\MFC\C\170503\WSAgent\WSAgent\obj\Debug\ResolveAssemblyReference.cache
+H:\MFC\C\170503\WSAgent\WSAgent\bin\Debug\WSAgent.dll.config
+H:\MFC\C\170503\WSAgent\WSAgent\bin\Debug\WSAgent.dll
+H:\MFC\C\170503\WSAgent\WSAgent\bin\Debug\WSAgent.pdb
+H:\MFC\C\170503\WSAgent\WSAgent\obj\Debug\WSAgent.dll
+H:\MFC\C\170503\WSAgent\WSAgent\obj\Debug\WSAgent.pdb

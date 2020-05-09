@@ -1,0 +1,10 @@
+H:\MFC\C\170503\WSAgent\WSQuery\bin\Debug\WSQuery.exe
+H:\MFC\C\170503\WSAgent\WSQuery\bin\Debug\WSQuery.pdb
+H:\MFC\C\170503\WSAgent\WSQuery\bin\Debug\WSAgent.dll
+H:\MFC\C\170503\WSAgent\WSQuery\bin\Debug\WSAgent.pdb
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\ResolveAssemblyReference.cache
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\WSQuery.Form1.resources
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\WSQuery.Properties.Resources.resources
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\WSQuery.csproj.GenerateResource.Cache
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\WSQuery.exe
+H:\MFC\C\170503\WSAgent\WSQuery\obj\Debug\WSQuery.pdb

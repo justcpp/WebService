@@ -1,0 +1,6 @@
+H:\MFC\C\170503\WSAgent\WSDoNet\bin\Debug\WSDoNet.exe.config
+H:\MFC\C\170503\WSAgent\WSDoNet\bin\Debug\WSDoNet.exe
+H:\MFC\C\170503\WSAgent\WSDoNet\bin\Debug\WSDoNet.pdb
+H:\MFC\C\170503\WSAgent\WSDoNet\obj\Debug\ResolveAssemblyReference.cache
+H:\MFC\C\170503\WSAgent\WSDoNet\obj\Debug\WSDoNet.exe
+H:\MFC\C\170503\WSAgent\WSDoNet\obj\Debug\WSDoNet.pdb

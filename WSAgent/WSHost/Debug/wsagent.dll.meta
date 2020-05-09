@@ -1,0 +1,122 @@
+Assembly WSAgent, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=SHA1, flags=None
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=SHA1, flags=None
+Class WSAgent.WeatherServer.WeatherWebService: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Web.Services.Protocols.SoapHttpClientProtocol
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Url 'get set' : 
+    Boolean UseDefaultCredentials 'get set' : 
+  Events:
+    WSAgent.WeatherServer.getSupportCityCompletedEventHandler getSupportCityCompleted: 
+    WSAgent.WeatherServer.getSupportProvinceCompletedEventHandler getSupportProvinceCompleted: 
+    WSAgent.WeatherServer.getSupportDataSetCompletedEventHandler getSupportDataSetCompleted: 
+    WSAgent.WeatherServer.getWeatherbyCityNameCompletedEventHandler getWeatherbyCityNameCompleted: 
+    WSAgent.WeatherServer.getWeatherbyCityNameProCompletedEventHandler getWeatherbyCityNameProCompleted: 
+  Methods:
+    get_Url(): PrivateScope, Public, HideBySig, SpecialName
+    set_Url(String): PrivateScope, Public, HideBySig, SpecialName
+    get_UseDefaultCredentials(): PrivateScope, Public, HideBySig, SpecialName
+    set_UseDefaultCredentials(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    add_getSupportCityCompleted(getSupportCityCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_getSupportCityCompleted(getSupportCityCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_getSupportProvinceCompleted(getSupportProvinceCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_getSupportProvinceCompleted(getSupportProvinceCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_getSupportDataSetCompleted(getSupportDataSetCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_getSupportDataSetCompleted(getSupportDataSetCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_getWeatherbyCityNameCompleted(getWeatherbyCityNameCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_getWeatherbyCityNameCompleted(getWeatherbyCityNameCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_getWeatherbyCityNameProCompleted(getWeatherbyCityNameProCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_getWeatherbyCityNameProCompleted(getWeatherbyCityNameProCompletedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    getSupportCity(String): PrivateScope, Public, HideBySig
+    getSupportCityAsync(String): PrivateScope, Public, HideBySig
+    getSupportCityAsync(String, Object): PrivateScope, Public, HideBySig
+    getSupportProvince(): PrivateScope, Public, HideBySig
+    getSupportProvinceAsync(): PrivateScope, Public, HideBySig
+    getSupportProvinceAsync(Object): PrivateScope, Public, HideBySig
+    getSupportDataSet(): PrivateScope, Public, HideBySig
+    getSupportDataSetAsync(): PrivateScope, Public, HideBySig
+    getSupportDataSetAsync(Object): PrivateScope, Public, HideBySig
+    getWeatherbyCityName(String): PrivateScope, Public, HideBySig
+    getWeatherbyCityNameAsync(String): PrivateScope, Public, HideBySig
+    getWeatherbyCityNameAsync(String, Object): PrivateScope, Public, HideBySig
+    getWeatherbyCityNamePro(String, String): PrivateScope, Public, HideBySig
+    getWeatherbyCityNameProAsync(String, String): PrivateScope, Public, HideBySig
+    getWeatherbyCityNameProAsync(String, String, Object): PrivateScope, Public, HideBySig
+    CancelAsync(Object): PrivateScope, Public, HideBySig
+Class WSAgent.WeatherServer.getSupportCityCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, getSupportCityCompletedEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Object, getSupportCityCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class WSAgent.WeatherServer.getSupportCityCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.ComponentModel.AsyncCompletedEventArgs
+  Properties:
+    System.String[] Result 'get ' : 
+  Methods:
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class WSAgent.WeatherServer.getSupportProvinceCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, getSupportProvinceCompletedEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Object, getSupportProvinceCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class WSAgent.WeatherServer.getSupportProvinceCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.ComponentModel.AsyncCompletedEventArgs
+  Properties:
+    System.String[] Result 'get ' : 
+  Methods:
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class WSAgent.WeatherServer.getSupportDataSetCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, getSupportDataSetCompletedEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Object, getSupportDataSetCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class WSAgent.WeatherServer.getSupportDataSetCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.ComponentModel.AsyncCompletedEventArgs
+  Properties:
+    System.Data.DataSet Result 'get ' : 
+  Methods:
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class WSAgent.WeatherServer.getWeatherbyCityNameCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, getWeatherbyCityNameCompletedEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Object, getWeatherbyCityNameCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class WSAgent.WeatherServer.getWeatherbyCityNameCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.ComponentModel.AsyncCompletedEventArgs
+  Properties:
+    System.String[] Result 'get ' : 
+  Methods:
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class WSAgent.WeatherServer.getWeatherbyCityNameProCompletedEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Object, getWeatherbyCityNameProCompletedEventArgs): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(Object, getWeatherbyCityNameProCompletedEventArgs, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class WSAgent.WeatherServer.getWeatherbyCityNameProCompletedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.ComponentModel.AsyncCompletedEventArgs
+  Properties:
+    System.String[] Result 'get ' : 
+  Methods:
+    get_Result(): PrivateScope, Public, HideBySig, SpecialName
+Class WSAgent.WebServerAgent: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetWeather(String): PrivateScope, Public, HideBySig
