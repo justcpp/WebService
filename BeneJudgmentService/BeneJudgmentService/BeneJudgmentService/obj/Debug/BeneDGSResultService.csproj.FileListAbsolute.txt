@@ -1,0 +1,11 @@
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\bin\Debug\Newtonsoft.Json.dll
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\bin\Debug\NHttp.dll
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.ProjectInstaller.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.pdb

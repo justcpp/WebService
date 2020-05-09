@@ -1,0 +1,22 @@
+Beat-by-beat comparison results for record H1711113EUZ5E
+Reference annotator: atr
+     Test annotator: ann
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 112320    0    0    0    0    0    0
+ S |    0   77    0    0    0    0    0
+ V |    0    0   84    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (112481/112481)
+ QRS positive predictivity: 100.00% (112481/112481)
+           VEB sensitivity: 100.00% (84/84)
+ VEB positive predictivity: 100.00% (84/84)
+          SVEB sensitivity: 100.00% (77/77)
+SVEB positive predictivity: 100.00% (77/77)
+     RMS RR interval error:   0.00 ms

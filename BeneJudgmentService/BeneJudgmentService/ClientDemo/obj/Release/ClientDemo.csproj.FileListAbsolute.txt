@@ -1,0 +1,8 @@
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ClientDemo.Form1.resources
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ClientDemo.Properties.Resources.resources
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ClientDemo.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\bin\Release\ClientDemo.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\bin\Release\ClientDemo.pdb
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ClientDemo.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\ClientDemo\obj\Release\ClientDemo.pdb

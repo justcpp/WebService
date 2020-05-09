@@ -1,0 +1,10 @@
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\bin\Debug\BeneDGSResultUtility.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\bin\Debug\BeneDGSResultUtility.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultUtility.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultUtility.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.Form1.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.Properties.Resources.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.pdb

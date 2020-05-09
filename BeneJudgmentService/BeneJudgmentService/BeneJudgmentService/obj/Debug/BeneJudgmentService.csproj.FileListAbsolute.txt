@@ -1,0 +1,14 @@
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultService.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneJudgmentService.ProjectInstaller.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneJudgmentService.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultService\obj\Debug\BeneDGSResultService.pdb
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\BeneJudgmentService.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\BeneJudgmentService.pdb
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\obj\Debug\BeneJudgmentService.ProjectInstaller.resources
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\obj\Debug\BeneJudgmentService.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\obj\Debug\BeneJudgmentService.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\obj\Debug\BeneJudgmentService.pdb

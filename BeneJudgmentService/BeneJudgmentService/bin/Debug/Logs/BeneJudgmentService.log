@@ -1,0 +1,726 @@
+﻿[Info 2018/11/5 15:39:04] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.4:50:0","UploadTime":"2018-11-05T15:39:04.9563687+08:00","Status":1}
+[Info 2018/11/5 15:39:09] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:39:31] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.5:4:47","UploadTime":"2018-11-05T15:39:31.28776+08:00","Status":1}
+[Info 2018/11/5 15:39:36] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:40:06] : Service Start!
+[Info 2018/11/5 15:40:11] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.5:23:47","UploadTime":"2018-11-05T15:40:11.1873714+08:00","Status":1}
+[Info 2018/11/5 15:40:16] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:40:30] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.5:47:19","UploadTime":"2018-11-05T15:40:30.3936391+08:00","Status":1}
+[Info 2018/11/5 15:40:35] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:41:23] : Service Start!
+[Debug 2018/11/5 15:41:23] : BeneJudgmentService Start!
+[Info 2018/11/5 15:41:38] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.6:16:31","UploadTime":"2018-11-05T15:41:38.3388455+08:00","Status":1}
+[Info 2018/11/5 15:48:06] : Service Stop!
+[Info 2018/11/5 15:48:12] : Service Start!
+[Debug 2018/11/5 15:48:12] : BeneJudgmentService Start!
+[Info 2018/11/5 15:48:18] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.6:58:3","UploadTime":"2018-11-05T15:48:18.7623066+08:00","Status":1}
+[Info 2018/11/5 15:48:18] : begin compare
+[Info 2018/11/5 15:49:11] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.7:52:49","UploadTime":"2018-11-05T15:49:11.922876+08:00","Status":1}
+[Info 2018/11/5 15:51:07] : Service Stop!
+[Info 2018/11/5 15:55:29] : Service Start!
+[Info 2018/11/5 15:55:34] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.9:7:11","UploadTime":"2018-11-05T15:55:34.756486+08:00","Status":1}
+[Info 2018/11/5 15:55:34] : begin compare
+[Info 2018/11/5 15:55:39] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:55:39] : end compare
+[Info 2018/11/5 15:56:06] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.10:41:42","UploadTime":"2018-11-05T15:56:06.9070213+08:00","Status":1}
+[Info 2018/11/5 15:56:06] : begin compare
+[Info 2018/11/5 15:56:11] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 15:56:11] : end compare
+[Info 2018/11/5 16:09:13] : Service Start!
+[Debug 2018/11/5 16:09:13] : BeneJudgmentService Start!
+[Info 2018/11/5 16:09:48] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.12:50:3","UploadTime":"2018-11-05T16:09:47.9896557+08:00","Status":1}
+[Info 2018/11/5 16:09:48] : begin compare
+[Info 2018/11/5 16:11:17] : Service Stop!
+[Info 2018/11/5 16:11:20] : Service Start!
+[Debug 2018/11/5 16:11:20] : BeneJudgmentService Start!
+[Info 2018/11/5 16:12:00] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.15:34:26","UploadTime":"2018-11-05T16:12:00.1902295+08:00","Status":1}
+[Info 2018/11/5 16:12:04] : begin compare
+[Info 2018/11/5 16:13:44] : Service Stop!
+[Info 2018/11/5 16:13:50] : Service Start!
+[Debug 2018/11/5 16:13:50] : BeneJudgmentService Start!
+[Info 2018/11/5 16:14:06] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.18:56:57","UploadTime":"2018-11-05T16:14:06.2340478+08:00","Status":1}
+[Info 2018/11/5 16:14:09] : begin compare
+[Info 2018/11/5 16:15:00] : Service Stop!
+[Info 2018/11/5 16:15:02] : Service Start!
+[Debug 2018/11/5 16:15:02] : BeneJudgmentService Start!
+[Info 2018/11/5 16:15:24] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.22:58:54","UploadTime":"2018-11-05T16:15:24.7243509+08:00","Status":1}
+[Info 2018/11/5 16:16:12] : Service Stop!
+[Info 2018/11/5 16:16:19] : Service Start!
+[Debug 2018/11/5 16:16:19] : BeneJudgmentService Start!
+[Info 2018/11/5 16:16:38] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"1.3:41:31","UploadTime":"2018-11-05T16:16:38.8141062+08:00","Status":1}
+[Info 2018/11/5 16:17:03] : begin compare
+[Info 2018/11/5 16:18:24] : Service Stop!
+[Info 2018/11/5 16:18:26] : Service Start!
+[Debug 2018/11/5 16:18:26] : BeneJudgmentService Start!
+[Info 2018/11/5 16:18:44] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"1.9:6:54","UploadTime":"2018-11-05T16:18:44.4268158+08:00","Status":1}
+[Info 2018/11/5 16:18:50] : begin compare
+[Info 2018/11/5 16:37:46] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"1.15:34:5","UploadTime":"2018-11-05T16:37:46.3990452+08:00","Status":1}
+[Info 2018/11/5 16:37:57] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"1.23:3:16","UploadTime":"2018-11-05T16:37:57.6332563+08:00","Status":1}
+[Info 2018/11/5 16:38:12] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"2.7:34:41","UploadTime":"2018-11-05T16:38:12.2226083+08:00","Status":1}
+[Info 2018/11/5 16:38:50] : Service Stop!
+[Info 2018/11/5 16:38:54] : Service Start!
+[Debug 2018/11/5 16:38:54] : BeneJudgmentService Start!
+[Info 2018/11/5 16:39:10] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"2.17:9:18","UploadTime":"2018-11-05T16:39:10.2596654+08:00","Status":1}
+[Info 2018/11/5 16:39:16] : begin compare
+[Info 2018/11/5 16:48:03] : Service Stop!
+[Info 2018/11/5 16:48:14] : Service Start!
+[Debug 2018/11/5 16:48:14] : BeneJudgmentService Start!
+[Info 2018/11/5 16:48:19] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"3.3:56:16","UploadTime":"2018-11-05T16:48:19.5924917+08:00","Status":1}
+[Info 2018/11/5 16:48:19] : begin compare
+[Info 2018/11/5 17:26:38] : Service Stop!
+[Info 2018/11/5 17:27:08] : Service Start!
+[Debug 2018/11/5 17:27:08] : BeneJudgmentService Start!
+[Info 2018/11/5 17:27:12] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"3.16:34:28","UploadTime":"2018-11-05T17:27:12.009652+08:00","Status":1}
+[Info 2018/11/5 17:27:12] : begin compare
+[Info 2018/11/5 17:28:03] : Service Stop!
+[Info 2018/11/5 17:28:09] : Service Start!
+[Debug 2018/11/5 17:28:09] : BeneJudgmentService Start!
+[Info 2018/11/5 17:28:48] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"4.7:5:30","UploadTime":"2018-11-05T17:28:48.6711645+08:00","Status":1}
+[Info 2018/11/5 17:31:26] : begin compare
+[Info 2018/11/5 17:33:18] : Service Stop!
+[Info 2018/11/5 17:33:21] : Service Start!
+[Info 2018/11/5 17:33:26] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"4.23:34:0","UploadTime":"2018-11-05T17:33:25.9663992+08:00","Status":1}
+[Info 2018/11/5 17:33:26] : begin compare
+[Info 2018/11/5 17:33:30] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 17:33:30] : end compare
+[Info 2018/11/5 17:36:29] : Service Start!
+[Debug 2018/11/5 17:36:29] : BeneJudgmentService Start!
+[Error 2018/11/5 17:36:29] : UnhandledException caught : Failed to start HTTP server
+[Error 2018/11/5 17:36:29] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 329
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 203
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2018/11/5 17:36:29] : Runtime terminating: True
+[Info 2018/11/5 17:39:59] : Service Start!
+[Debug 2018/11/5 17:39:59] : BeneJudgmentService Start!
+[Info 2018/11/5 17:40:04] : Service Start!
+[Info 2018/11/5 17:40:32] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"5.18:7:5","UploadTime":"2018-11-05T17:40:32.8474077+08:00","Status":1}
+[Info 2018/11/5 17:41:43] : begin compare
+[Info 2018/11/5 17:42:33] : Service Stop!
+[Info 2018/11/5 17:42:37] : Service Start!
+[Debug 2018/11/5 17:42:37] : BeneJudgmentService Start!
+[Error 2018/11/5 17:44:11] : OpenConnection
+[Error 2018/11/5 17:44:11] : Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+[Info 2018/11/5 17:44:11] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.20:40:32","UploadTime":"2018-11-05T17:44:11.1622263+08:00","Status":1}
+[Error 2018/11/5 17:44:56] : OpenConnection
+[Error 2018/11/5 17:44:56] : Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed.
+[Info 2018/11/5 17:45:01] : begin compare
+[Info 2018/11/5 17:46:55] : Service Stop!
+[Info 2018/11/5 17:47:30] : Service Start!
+[Debug 2018/11/5 17:47:30] : BeneJudgmentService Start!
+[Info 2018/11/5 17:47:34] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"6.16:59:13","UploadTime":"2018-11-05T17:47:34.7431207+08:00","Status":1}
+[Info 2018/11/5 17:47:34] : begin compare
+[Info 2018/11/5 17:47:34] : 提前结束
+[Info 2018/11/5 17:47:34] : end compare
+[Info 2018/11/5 17:47:58] : Service Stop!
+[Info 2018/11/5 17:48:01] : Service Start!
+[Debug 2018/11/5 17:48:01] : BeneJudgmentService Start!
+[Info 2018/11/5 17:48:55] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"7.18:4:18","UploadTime":"2018-11-05T17:48:54.9864599+08:00","Status":1}
+[Info 2018/11/5 17:49:00] : begin compare
+[Info 2018/11/5 17:49:04] : 提前结束
+[Info 2018/11/5 17:49:04] : end compare
+[Info 2018/11/5 17:52:24] : Service Stop!
+[Info 2018/11/5 17:54:29] : Service Start!
+[Debug 2018/11/5 17:54:29] : BeneJudgmentService Start!
+[Info 2018/11/5 17:54:33] : Service Stop!
+[Info 2018/11/5 17:55:55] : Service Start!
+[Debug 2018/11/5 17:55:55] : BeneJudgmentService Start!
+[Info 2018/11/5 17:56:05] : Service Stop!
+[Info 2018/11/5 17:56:21] : Service Start!
+[Debug 2018/11/5 17:56:21] : BeneJudgmentService Start!
+[Info 2018/11/5 17:56:44] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"8.21:30:9","UploadTime":"2018-11-05T17:56:44.5025754+08:00","Status":1}
+[Info 2018/11/5 17:56:49] : begin compare
+[Info 2018/11/5 18:03:52] : Service Stop!
+[Info 2018/11/5 18:04:20] : Service Start!
+[Debug 2018/11/5 18:04:20] : BeneJudgmentService Start!
+[Info 2018/11/5 18:04:50] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"10.3:24:52","UploadTime":"2018-11-05T18:04:50.4570446+08:00","Status":1}
+[Info 2018/11/5 18:04:50] : begin compare
+[Info 2018/11/5 18:12:00] : 荅?R嬐P?槶??XZ婱鬱?
+[Info 2018/11/5 18:12:00] : end compare
+[Info 2018/11/5 18:16:57] : Service Stop!
+[Info 2018/11/5 18:17:13] : Service Start!
+[Debug 2018/11/5 18:17:13] : BeneJudgmentService Start!
+[Info 2018/11/5 18:17:24] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"11.12:1:1","UploadTime":"2018-11-05T18:17:24.5622677+08:00","Status":1}
+[Info 2018/11/5 18:17:24] : begin compare
+[Info 2018/11/5 18:17:24] : 荅?R嬐P?
+[Info 2018/11/5 18:17:24] : end compare
+[Info 2018/11/5 18:22:49] : Service Stop!
+[Info 2018/11/5 18:23:21] : Service Start!
+[Debug 2018/11/5 18:23:21] : BeneJudgmentService Start!
+[Info 2018/11/5 18:23:27] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"12.23:24:39","UploadTime":"2018-11-05T18:23:27.4573943+08:00","Status":1}
+[Info 2018/11/5 18:23:27] : begin compare
+[Info 2018/11/5 18:23:27] : 
+[Info 2018/11/5 18:23:27] : end compare
+[Info 2018/11/5 18:26:57] : Service Stop!
+[Info 2018/11/5 18:27:09] : Service Start!
+[Debug 2018/11/5 18:27:09] : BeneJudgmentService Start!
+[Info 2018/11/5 18:27:17] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"14.13:39:36","UploadTime":"2018-11-05T18:27:17.2046213+08:00","Status":1}
+[Info 2018/11/5 18:27:17] : begin compare
+[Info 2018/11/5 18:27:17] : 
+[Info 2018/11/5 18:27:17] : end compare
+[Info 2018/11/5 18:28:14] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"16.6:46:49","UploadTime":"2018-11-05T18:28:14.1744203+08:00","Status":1}
+[Info 2018/11/5 18:31:04] : begin compare
+[Info 2018/11/5 18:31:04] : 
+[Info 2018/11/5 18:31:04] : Service Stop!
+[Info 2018/11/5 18:31:04] : end compare
+[Info 2018/11/5 18:31:21] : Service Start!
+[Debug 2018/11/5 18:31:21] : BeneJudgmentService Start!
+[Info 2018/11/5 18:31:29] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"18.2:49:34","UploadTime":"2018-11-05T18:31:29.9120675+08:00","Status":1}
+[Info 2018/11/5 18:31:29] : begin compare
+[Info 2018/11/5 18:31:29] : 
+[Info 2018/11/5 18:31:29] : end compare
+[Info 2018/11/5 18:33:35] : Service Stop!
+[Info 2018/11/5 18:33:43] : Service Start!
+[Debug 2018/11/5 18:33:43] : BeneJudgmentService Start!
+[Info 2018/11/5 18:33:47] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"20.1:50:8","UploadTime":"2018-11-05T18:33:47.5607727+08:00","Status":1}
+[Info 2018/11/5 18:33:47] : begin compare
+[Info 2018/11/5 18:33:47] : 
+[Info 2018/11/5 18:33:47] : end compare
+[Info 2018/11/5 18:34:26] : Service Stop!
+[Info 2018/11/5 18:34:32] : Service Start!
+[Info 2018/11/5 18:34:37] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"22.3:49:21","UploadTime":"2018-11-05T18:34:36.9906852+08:00","Status":1}
+[Info 2018/11/5 18:38:51] : Service Start!
+[Info 2018/11/5 18:38:56] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"24.8:51:32","UploadTime":"2018-11-05T18:38:56.1797165+08:00","Status":1}
+[Info 2018/11/5 18:38:56] : begin compare
+[Info 2018/11/5 18:38:56] : 
+[Info 2018/11/5 18:38:56] : end compare
+[Info 2018/11/5 18:39:46] : Service Start!
+[Debug 2018/11/5 18:39:46] : BeneJudgmentService Start!
+[Error 2018/11/5 18:39:46] : UnhandledException caught : Failed to start HTTP server
+[Error 2018/11/5 18:39:46] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 329
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 202
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2018/11/5 18:39:46] : Runtime terminating: True
+[Info 2018/11/5 18:40:51] : Service Start!
+[Info 2018/11/5 18:40:59] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"26.16:58:45","UploadTime":"2018-11-05T18:40:59.8952912+08:00","Status":1}
+[Info 2018/11/5 18:40:59] : begin compare
+[Info 2018/11/5 18:41:07] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 18:41:07] : end compare
+[Info 2018/11/5 18:41:47] : Service Start!
+[Info 2018/11/5 18:41:59] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"29.7:17:38","UploadTime":"2018-11-05T18:41:59.0082581+08:00","Status":1}
+[Info 2018/11/5 18:42:01] : begin compare
+[Info 2018/11/5 18:43:14] : Service Start!
+[Debug 2018/11/5 18:43:14] : BeneJudgmentService Start!
+[Info 2018/11/5 18:43:20] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"32.0:43:53","UploadTime":"2018-11-05T18:43:20.225782+08:00","Status":1}
+[Info 2018/11/5 18:43:20] : begin compare
+[Info 2018/11/5 18:44:58] : Service Stop!
+[Info 2018/11/5 18:45:21] : Service Start!
+[Debug 2018/11/5 18:45:21] : BeneJudgmentService Start!
+[Info 2018/11/5 18:45:38] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"34.21:19:48","UploadTime":"2018-11-05T18:45:38.6652781+08:00","Status":1}
+[Info 2018/11/5 18:45:42] : begin compare
+[Info 2018/11/5 18:46:28] : Service Stop!
+[Info 2018/11/5 18:46:44] : Service Start!
+[Debug 2018/11/5 18:46:44] : BeneJudgmentService Start!
+[Info 2018/11/5 18:47:12] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"37.21:6:57","UploadTime":"2018-11-05T18:47:12.6172987+08:00","Status":1}
+[Info 2018/11/5 18:47:12] : begin compare
+[Info 2018/11/5 18:48:08] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 18:48:08] : end compare
+[Info 2018/11/5 18:48:48] : Service Stop!
+[Info 2018/11/5 18:50:09] : Service Start!
+[Debug 2018/11/5 18:50:09] : BeneJudgmentService Start!
+[Info 2018/11/5 18:50:13] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"41.6:34:6","UploadTime":"2018-11-05T18:50:13.6993415+08:00","Status":1}
+[Info 2018/11/5 18:50:13] : begin compare
+[Info 2018/11/5 18:50:13] : 
+[Info 2018/11/5 18:50:13] : end compare
+[Info 2018/11/5 18:51:17] : Service Stop!
+[Info 2018/11/5 18:51:24] : Service Start!
+[Debug 2018/11/5 18:51:24] : BeneJudgmentService Start!
+[Info 2018/11/5 18:51:33] : Service Stop!
+[Info 2018/11/5 18:51:39] : Service Start!
+[Debug 2018/11/5 18:51:39] : BeneJudgmentService Start!
+[Info 2018/11/5 18:51:47] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"44.19:17:4","UploadTime":"2018-11-05T18:51:47.338268+08:00","Status":1}
+[Info 2018/11/5 18:51:47] : begin compare
+[Info 2018/11/5 18:51:52] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 18:51:52] : end compare
+[Info 2018/11/5 18:58:41] : Service Stop!
+[Info 2018/11/5 18:58:51] : Service Start!
+[Debug 2018/11/5 18:58:51] : BeneJudgmentService Start!
+[Info 2018/11/5 18:58:56] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"48.11:23:0","UploadTime":"2018-11-05T18:58:55.9791206+08:00","Status":1}
+[Info 2018/11/5 18:59:00] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/5 18:59:34] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"1.5:6:27","UploadTime":"2018-11-05T18:59:34.6047001+08:00","Status":1}
+[Info 2018/11/5 18:59:37] : 
+[Info 2018/11/5 18:59:50] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"1.5:13:57","UploadTime":"2018-11-05T18:59:50.2636289+08:00","Status":1}
+[Info 2018/11/5 18:59:53] : 
+[Info 2018/11/5 18:59:59] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"52.6:52:24","UploadTime":"2018-11-05T18:59:59.8434028+08:00","Status":1}
+[Info 2018/11/5 19:00:04] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:00:51] : Service Stop!
+[Info 2018/11/6 9:00:56] : Service Start!
+[Info 2018/11/6 9:01:10] : Service Start!
+[Debug 2018/11/6 9:01:10] : BeneJudgmentService Start!
+[Info 2018/11/6 9:01:22] : Service Stop!
+[Info 2018/11/6 9:01:28] : Service Start!
+[Debug 2018/11/6 9:01:29] : BeneJudgmentService Start!
+[Info 2018/11/6 9:02:11] : Service Stop!
+[Info 2018/11/6 9:02:16] : Service Start!
+[Debug 2018/11/6 9:02:16] : BeneJudgmentService Start!
+[Info 2018/11/6 9:03:18] : Service Start!
+[Info 2018/11/6 9:03:31] : Service Stop!
+[Info 2018/11/6 9:03:34] : Service Start!
+[Info 2018/11/6 9:05:11] : Service Start!
+[Info 2018/11/6 9:06:39] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"52.6:52:26","UploadTime":"2018-11-06T09:06:39.4011561+08:00","Status":1}
+[Info 2018/11/6 9:06:44] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:06:55] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"52.6:53:8","UploadTime":"2018-11-06T09:06:55.0187101+08:00","Status":1}
+[Info 2018/11/6 9:29:35] : Service Start!
+[Debug 2018/11/6 9:29:35] : BeneJudgmentService Start!
+[Info 2018/11/6 9:29:39] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:1:37","UploadTime":"2018-11-06T09:29:39.7959186+08:00","Status":1}
+[Info 2018/11/6 9:29:44] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:34:02] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:6:0","UploadTime":"2018-11-06T09:34:02.7501748+08:00","Status":1}
+[Info 2018/11/6 9:34:07] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:34:17] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:6:14","UploadTime":"2018-11-06T09:34:17.3663144+08:00","Status":1}
+[Info 2018/11/6 9:34:21] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:38:25] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:6:33","UploadTime":"2018-11-06T09:38:25.4252133+08:00","Status":1}
+[Info 2018/11/6 9:38:29] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:40:55] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:6:58","UploadTime":"2018-11-06T09:40:55.0174898+08:00","Status":1}
+[Info 2018/11/6 9:40:59] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 9:55:03] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:21:5","UploadTime":"2018-11-06T09:55:03.3912183+08:00","Status":1}
+[Info 2018/11/6 9:55:07] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 10:00:50] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:21:19","UploadTime":"2018-11-06T10:00:50.8786935+08:00","Status":1}
+[Info 2018/11/6 10:00:55] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 10:07:34] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1111252216","DGSResult":"        本记录数据时长22:24:30,总计139461次心搏,平均心率为104次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的12.4%,未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        共发生1414次室性早搏,占总心搏数的1.0%,包括1408次单发室早和3次成对室早.\r\n        共发生30313次房性早搏,占总心搏数的21.7%,包括15237次单发房早,3947次成对房早和1928次房性心动过速.共检测到330次二联律和155次三联律发生.\r\n        当前设置选择了I~V6进行ST段事件分析.在通道I中检测到3次ST段抬高事件,最大抬高为0.09mV,发生于11-27 05:10:47.在通道II中检测到31次ST段抬高事件,最大抬高为0.19mV,发生于11-27 03:21:49.在通道III中检测到3次ST段抬高事件,最大抬高为0.10mV,发生于11-27 13:04:11.在通道aVR中检测到6次ST段压低事件,最大压低为-0.10mV,发生于11-26 15:03:39.在通道aVF中检测到17次ST段抬高事件,最大抬高为0.15mV,发生于11-27 05:07:24.在通道V1中检测到95次ST段抬高事件,最大抬高为0.34mV,发生于11-26 17:43:47.在通道V2中检测到3次ST段抬高事件,最大抬高为0.55mV,发生于11-27 10:29:53.在通道V3中检测到5次ST段抬高事件,最大抬高为0.30mV,发生于11-27 10:09:31.在通道V4中检测到67次ST段抬高事件,最大抬高为0.20mV,发生于11-27 10:09:31.在通道V5中检测到7次ST段抬高事件,最大抬高为0.13mV,发生于11-27 03:36:17.","AlyTimeSpan":"0.0:0:4","UploadTime":"2018-11-06T10:07:34.338226+08:00","Status":1}
+[Error 2018/11/6 10:07:34] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1111252216.ebi  is not Exist!
+[Info 2018/11/6 10:09:41] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"1","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:0:13","UploadTime":"2018-11-06T10:09:41.2974135+08:00","Status":1}
+[Info 2018/11/6 10:11:18] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:0:6","UploadTime":"2018-11-06T10:11:18.8597226+08:00","Status":1}
+[Error 2018/11/6 10:11:18] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1111252216.ebi  is not Exist!
+[Info 2018/11/6 10:12:59] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:1:47","UploadTime":"2018-11-06T10:12:59.7563316+08:00","Status":1}
+[Error 2018/11/6 10:12:59] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1111252216.ebi  is not Exist!
+[Info 2018/11/6 10:14:01] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"0","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:1:48","UploadTime":"2018-11-06T10:14:01.2463977+08:00","Status":1}
+[Error 2018/11/6 10:14:01] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1111252216.ebi  is not Exist!
+[Info 2018/11/6 10:16:54] : Service Stop!
+[Info 2018/11/6 10:17:14] : Service Start!
+[Info 2018/11/6 10:21:18] : Service Start!
+[Info 2018/11/6 10:23:32] : Service Start!
+[Info 2018/11/6 10:23:37] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:2:3","UploadTime":"2018-11-06T10:23:37.1123172+08:00","Status":1}
+[Info 2018/11/6 10:25:30] : Service Start!
+[Info 2018/11/6 10:25:34] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:3:59","UploadTime":"2018-11-06T10:25:34.2039963+08:00","Status":1}
+[Info 2018/11/6 10:25:39] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":107482,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":30262,"Sv":0,"Sx":0,"Total_F":0,"Total_N":107482,"Total_Q":0,"Total_S":30262,"Total_V":1413,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":1413,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 10:29:35] : {"ID":"9","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1111252216","DGSResult":"","AlyTimeSpan":"0.0:5:40","UploadTime":"2018-11-06T10:29:35.4535809+08:00","Status":1}
+[Info 2018/11/6 10:29:40] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":107482,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":30262,"Sv":0,"Sx":0,"Total_F":0,"Total_N":107482,"Total_Q":0,"Total_S":30262,"Total_V":1413,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":1413,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 10:36:20] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:0:4","UploadTime":"2018-11-06T10:36:20.0858386+08:00","Status":1}
+[Info 2018/11/6 10:36:23] : 
+[Info 2018/11/6 10:36:29] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:0:13","UploadTime":"2018-11-06T10:36:29.0759607+08:00","Status":1}
+[Info 2018/11/6 10:36:32] : 
+[Info 2018/11/6 10:36:49] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:0:31","UploadTime":"2018-11-06T10:36:49.7218454+08:00","Status":1}
+[Info 2018/11/6 10:36:52] : 
+[Info 2018/11/6 10:39:10] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:0:35","UploadTime":"2018-11-06T10:39:10.7735885+08:00","Status":1}
+[Info 2018/11/6 10:39:13] : 
+[Info 2018/11/6 10:39:19] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:0:44","UploadTime":"2018-11-06T10:39:19.4044263+08:00","Status":1}
+[Info 2018/11/6 10:39:22] : 
+[Info 2018/11/6 10:42:20] : Service Start!
+[Info 2018/11/6 10:43:39] : {"ID":"6","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1712190LSHNV","DGSResult":"","AlyTimeSpan":"0.0:4:56","UploadTime":"2018-11-06T10:43:39.0202079+08:00","Status":1}
+[Info 2018/11/6 10:43:42] : 
+[Info 2018/11/6 16:22:41] : Service Start!
+[Info 2018/11/6 16:22:49] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.1:43:42","UploadTime":"2018-11-06T16:22:49.2747749+08:00","Status":1}
+[Info 2018/11/6 16:22:57] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/6 16:51:05] : Service Start!
+[Info 2018/11/6 16:51:25] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.1:43:44","UploadTime":"2018-11-06T16:51:25.0101213+08:00","Status":1}
+[Info 2018/11/6 16:51:30] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/7 11:07:34] : Service Start!
+[Debug 2018/11/7 11:07:34] : BeneJudgmentService Start!
+[Info 2018/11/7 14:43:56] : Service Stop!
+[Info 2018/11/7 15:08:03] : Service Start!
+[Info 2018/11/8 16:14:16] : Service Start!
+[Debug 2018/11/8 16:14:16] : BeneJudgmentService Start!
+[Info 2018/11/8 16:16:32] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:3","UploadTime":"2018-11-08T16:16:32.7671103+08:00","Status":1}
+[Info 2018/11/8 16:16:38] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1109272002","DGSResult":"        本记录数据时长23:24:24,总计95303次心搏,平均心率为68次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        共发生464次室性早搏,占总心搏数的<1%,包括464次单发室早.\r\n        共发生39次房性早搏,占总心搏数的<1%,包括25次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  个别成对  短阵性房性心动过\r\n3、偶发室性早搏\r\n4、间歇性ST－T改变（V6）\r\n5、HRV：中度降低","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-08T16:16:38.3887639+08:00","Status":1}
+[Info 2018/11/8 16:16:43] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1109267192","DGSResult":"        本记录数据时长23:57:41,总计90847次心搏,平均心率为65次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的18.4%.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生36次房性早搏,占总心搏数的<1%,包括31次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  成对  短阵房性心动过速\r\n3、T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:1","UploadTime":"2018-11-08T16:16:43.7508136+08:00","Status":1}
+[Info 2018/11/8 16:16:49] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1109263996","DGSResult":"        本记录数据时长23:57:41,总计74937次心搏,平均心率为53次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的60.7%.\r\n        未检测到停搏事件发生.\r\n        共发生4次室性早搏,占总心搏数的<1%,包括4次单发室早.\r\n        共发生58次房性早搏,占总心搏数的<1%,包括46次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心动过缓  部分伴不完全性干扰性房室脱节\r\n2、偶发房性早搏  个别成对  短阵性房性心动过速  部分伴室内差异性传导\r\n3、偶发室性早搏\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-08T16:16:49.6057136+08:00","Status":1}
+[Info 2018/11/8 16:17:15] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-08T16:17:15.7820398+08:00","Status":1}
+[Info 2018/11/8 16:17:21] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109272002","DGSResult":"        本记录数据时长23:24:24,总计95303次心搏,平均心率为68次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        共发生464次室性早搏,占总心搏数的<1%,包括464次单发室早.\r\n        共发生39次房性早搏,占总心搏数的<1%,包括25次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  个别成对  短阵性房性心动过\r\n3、偶发室性早搏\r\n4、间歇性ST－T改变（V6）\r\n5、HRV：中度降低","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-08T16:17:21.2007926+08:00","Status":1}
+[Info 2018/11/8 16:17:23] : 
+[Info 2018/11/8 16:17:24] : 
+[Info 2018/11/8 16:17:25] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109267192","DGSResult":"        本记录数据时长23:57:41,总计90847次心搏,平均心率为65次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的18.4%.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生36次房性早搏,占总心搏数的<1%,包括31次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  成对  短阵房性心动过速\r\n3、T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-08T16:17:25.9563286+08:00","Status":1}
+[Info 2018/11/8 16:17:31] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109263996","DGSResult":"        本记录数据时长23:57:41,总计74937次心搏,平均心率为53次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的60.7%.\r\n        未检测到停搏事件发生.\r\n        共发生4次室性早搏,占总心搏数的<1%,包括4次单发室早.\r\n        共发生58次房性早搏,占总心搏数的<1%,包括46次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心动过缓  部分伴不完全性干扰性房室脱节\r\n2、偶发房性早搏  个别成对  短阵性房性心动过速  部分伴室内差异性传导\r\n3、偶发室性早搏\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:1","UploadTime":"2018-11-08T16:17:31.2842351+08:00","Status":1}
+[Info 2018/11/8 16:17:31] : 
+[Info 2018/11/8 16:17:37] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":74653,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":58,"Sv":0,"Sx":0,"Total_F":0,"Total_N":74653,"Total_Q":0,"Total_S":58,"Total_V":4,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":4,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/8 16:22:31] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:17","UploadTime":"2018-11-08T16:22:31.3298582+08:00","Status":1}
+[Info 2018/11/8 16:22:36] : 
+[Info 2018/11/8 16:23:28] : {"ID":"18","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109263996","DGSResult":"        本记录数据时长23:57:41,总计74937次心搏,平均心率为53次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的60.7%.\r\n        未检测到停搏事件发生.\r\n        共发生4次室性早搏,占总心搏数的<1%,包括4次单发室早.\r\n        共发生58次房性早搏,占总心搏数的<1%,包括46次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心动过缓  部分伴不完全性干扰性房室脱节\r\n2、偶发房性早搏  个别成对  短阵性房性心动过速  部分伴室内差异性传导\r\n3、偶发室性早搏\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:48","UploadTime":"2018-11-08T16:23:28.7312238+08:00","Status":1}
+[Info 2018/11/8 16:23:34] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":74653,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":58,"Sv":0,"Sx":0,"Total_F":0,"Total_N":74653,"Total_Q":0,"Total_S":58,"Total_V":4,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":4,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/8 17:16:34] : {"ID":"17","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109267192","DGSResult":"        本记录数据时长23:57:41,总计90847次心搏,平均心率为65次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的18.4%.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生36次房性早搏,占总心搏数的<1%,包括31次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  成对  短阵房性心动过速\r\n3、T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:9","UploadTime":"2018-11-08T17:16:34.7845831+08:00","Status":1}
+[Info 2018/11/8 17:16:43] : 
+[Info 2018/11/9 10:31:02] : Service Stop!
+[Info 2018/11/9 10:31:16] : Service Start!
+[Debug 2018/11/9 10:31:16] : BeneJudgmentService Start!
+[Info 2018/11/9 10:34:03] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:18","UploadTime":"2018-11-09T10:34:03.2699786+08:00","Status":1}
+[Info 2018/11/9 10:34:11] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":89607,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":4,"Sv":0,"Sx":0,"Total_F":0,"Total_N":89607,"Total_Q":0,"Total_S":4,"Total_V":0,"V+P":"-","V_Se":"-","V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":0,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/9 10:35:02] : {"ID":"16","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109272002","DGSResult":"        本记录数据时长23:24:24,总计95303次心搏,平均心率为68次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        共发生464次室性早搏,占总心搏数的<1%,包括464次单发室早.\r\n        共发生39次房性早搏,占总心搏数的<1%,包括25次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  个别成对  短阵性房性心动过\r\n3、偶发室性早搏\r\n4、间歇性ST－T改变（V6）\r\n5、HRV：中度降低","AlyTimeSpan":"0.0:0:3","UploadTime":"2018-11-09T10:35:02.0533587+08:00","Status":1}
+[Info 2018/11/9 10:35:07] : {"ID":"17","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109267192","DGSResult":"        本记录数据时长23:57:41,总计90847次心搏,平均心率为65次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,心动过缓事件(心率<50次/分)持续时间占总时间的18.4%.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生36次房性早搏,占总心搏数的<1%,包括31次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  成对  短阵房性心动过速\r\n3、T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:11","UploadTime":"2018-11-09T10:35:07.528604+08:00","Status":1}
+[Info 2018/11/9 10:35:08] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":94521,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":38,"Sv":0,"Sx":0,"Total_F":0,"Total_N":94521,"Total_Q":0,"Total_S":38,"Total_V":463,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":463,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/9 10:35:13] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":90611,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":36,"Sv":0,"Sx":0,"Total_F":0,"Total_N":90611,"Total_Q":0,"Total_S":36,"Total_V":0,"V+P":"-","V_Se":"-","V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":0,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/9 14:21:51] : Service Stop!
+[Info 2018/11/9 14:21:56] : Service Start!
+[Debug 2018/11/9 14:21:56] : BeneJudgmentService Start!
+[Info 2018/11/9 14:22:58] : Service Stop!
+[Info 2018/11/9 14:23:10] : Service Start!
+[Debug 2018/11/9 14:23:10] : BeneJudgmentService Start!
+[Info 2018/11/9 14:24:19] : Service Stop!
+[Info 2018/11/9 14:24:29] : Service Start!
+[Info 2018/11/9 14:27:44] : Service Start!
+[Info 2018/11/9 14:27:51] : Service Start!
+[Info 2018/11/9 14:28:55] : Service Start!
+[Info 2018/11/9 14:29:18] : Service Start!
+[Debug 2018/11/9 14:29:18] : BeneJudgmentService Start!
+[Info 2018/11/12 9:34:18] : Service Stop!
+[Info 2018/11/12 9:34:26] : Service Start!
+[Debug 2018/11/12 9:34:26] : BeneJudgmentService Start!
+[Info 2018/11/12 9:34:36] : Service Start!
+[Info 2018/11/12 9:34:53] : Service Stop!
+[Info 2018/11/12 9:34:55] : Service Start!
+[Info 2018/11/12 9:35:40] : Service Start!
+[Debug 2018/11/12 9:35:40] : BeneJudgmentService Start!
+[Info 2018/11/12 9:35:44] : Service Stop!
+[Info 2018/11/13 8:58:00] : Service Start!
+[Debug 2018/11/13 8:58:00] : BeneJudgmentService Start!
+[Info 2018/11/14 14:19:39] : Service Stop!
+[Info 2018/11/14 14:20:21] : Service Start!
+[Debug 2018/11/14 14:20:21] : BeneJudgmentService Start!
+[Info 2018/11/14 14:21:40] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:20","UploadTime":"2018-11-14T14:21:40.0405038+08:00","Status":1}
+[Info 2018/11/14 14:21:54] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":89607,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":4,"Sv":0,"Sx":0,"Total_F":0,"Total_N":89607,"Total_Q":0,"Total_S":4,"Total_V":0,"V+P":"-","V_Se":"-","V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":0,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/14 14:22:09] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:48","UploadTime":"2018-11-14T14:22:09.1886965+08:00","Status":1}
+[Error 2018/11/14 14:22:09] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1109279251.ebi  is not Exist!
+[Info 2018/11/15 8:53:35] : Service Start!
+[Debug 2018/11/15 8:53:36] : BeneJudgmentService Start!
+[Info 2018/11/19 8:35:48] : Service Start!
+[Debug 2018/11/19 8:35:49] : BeneJudgmentService Start!
+[Info 2018/11/19 16:48:01] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:50","UploadTime":"2018-11-19T16:48:01.0908332+08:00","Status":1}
+[Info 2018/11/19 16:48:04] : {"ID":"15","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109279251","DGSResult":"        本记录数据时长22:17:51,总计89818次心搏,平均心率为68次/分.其中心动过缓事件(心率<50次/分)持续时间占总时间的3.7%,未检测到心动过速事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        共发生4次房性早搏,占总心搏数的<1%,包括4次单发房早.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏\r\n3、间歇性T波改变\r\n4、HRV：正常","AlyTimeSpan":"0.0:0:53","UploadTime":"2018-11-19T16:48:04.5089337+08:00","Status":1}
+[Info 2018/11/19 16:48:14] : {"ID":"16","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1109272002","DGSResult":"        本记录数据时长23:24:24,总计95303次心搏,平均心率为68次/分.其中心动过速事件(心率>120次/分)持续时间占总时间的<1%,未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        共发生464次室性早搏,占总心搏数的<1%,包括464次单发室早.\r\n        共发生39次房性早搏,占总心搏数的<1%,包括25次单发房早,1次成对房早和1次房性心动过速.\r\n        当前设置选择了Ⅱ,V1和V5进行ST段事件分析.未检测到ST段抬高/压低事件发生.\r\n\r\n1、窦性心律\r\n2、偶发房性早搏  个别成对  短阵性房性心动过\r\n3、偶发室性早搏\r\n4、间歇性ST－T改变（V6）\r\n5、HRV：中度降低","AlyTimeSpan":"0.0:0:5","UploadTime":"2018-11-19T16:48:14.6607306+08:00","Status":1}
+[Info 2018/11/19 16:48:22] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":89607,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":4,"Sv":0,"Sx":0,"Total_F":0,"Total_N":89607,"Total_Q":0,"Total_S":4,"Total_V":0,"V+P":"-","V_Se":"-","V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":0,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/19 16:48:24] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":94521,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":38,"Sv":0,"Sx":0,"Total_F":0,"Total_N":94521,"Total_Q":0,"Total_S":38,"Total_V":463,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":463,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/19 16:48:25] : 葺葺葺葺葺葺葺葺葺葺葺葺葺葺e
+[Info 2018/11/20 8:45:21] : Service Start!
+[Debug 2018/11/20 8:45:22] : BeneJudgmentService Start!
+[Info 2018/11/21 8:47:30] : Service Start!
+[Debug 2018/11/21 8:47:31] : BeneJudgmentService Start!
+[Info 2018/11/21 17:45:09] : {"ID":null,"DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1904271VV6X6","DGSResult":"        本记录数据时长00:04:18,总计237次心搏,平均心率为60次/分.未检测到心动过速事件发生.未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        未检测到房性早搏发生.\r\n        当前设置选择了CH1,CH2和CH3进行ST段事件分析.未检测到ST段抬高/压低事件发生.","AlyTimeSpan":"0.0:0:8","UploadTime":"2018-11-21T17:45:09.1097459+08:00","Status":1}
+[Error 2018/11/21 17:45:09] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1904271VV6X6.ebi  is not Exist!
+[Info 2018/11/21 17:45:09] : {"ID":"19","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1904271VV6X6","DGSResult":"        本记录数据时长00:04:18,总计237次心搏,平均心率为60次/分.未检测到心动过速事件发生.未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        未检测到房性早搏发生.\r\n        当前设置选择了CH1,CH2和CH3进行ST段事件分析.未检测到ST段抬高/压低事件发生.","AlyTimeSpan":"0.0:0:16","UploadTime":"2018-11-21T17:45:09.1804341+08:00","Status":1}
+[Error 2018/11/21 17:45:09] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1904271VV6X6.rif  is not Exist!
+[Info 2018/11/21 17:46:17] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.1:43:46","UploadTime":"2018-11-21T17:46:17.680559+08:00","Status":1}
+[Info 2018/11/21 17:46:17] : {"ID":"5","DocName":"测试","DocAccount":"test","RoleID":"1","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.1:43:48","UploadTime":"2018-11-21T17:46:17.691091+08:00","Status":1}
+[Error 2018/11/21 17:46:17] : File: I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\DGSResult\test\H1711113EUZ5E.rif  is not Exist!
+[Info 2018/11/21 17:46:27] : {"F_missed":0,"F_wrong":0,"Ff":0,"Fn":0,"Fo":0,"Fq":0,"Fs":0,"Fv":0,"Fx":0,"N_missed":0,"N_wrong":0,"Nf":0,"Nn":112320,"No":0,"Nq":0,"Ns":0,"Nv":0,"Nx":0,"Of":0,"On":0,"Oq":0,"Os":0,"Ov":0,"Q+P":100.0,"Q_Se":100.0,"Qf":0,"Qn":0,"Qo":0,"Qq":0,"Qs":0,"Qv":0,"Qx":0,"RR_err":0.0,"S+P":100.0,"S_Se":100.0,"S_missed":0,"S_wrong":0,"Sf":0,"Sn":0,"So":0,"Sq":0,"Ss":77,"Sv":0,"Sx":0,"Total_F":0,"Total_N":112320,"Total_Q":0,"Total_S":77,"Total_V":84,"V+P":100.0,"V_Se":100.0,"V_missed":0,"V_wrong":0,"Vf":0,"Vn":0,"Vo":0,"Vq":0,"Vs":0,"Vv":84,"Vx":0,"Xf":0,"Xn":0,"Xq":0,"Xs":0,"Xv":0}
+
+[Info 2018/11/21 17:48:52] : {"ID":"7","DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:0:3","UploadTime":"2018-11-21T17:48:52.3374726+08:00","Status":1}
+[Info 2018/11/21 17:48:52] : {"ID":"7","DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1711113EUZ5E","DGSResult":"窦性心律\r\n\r\n房性早搏　　　　部分成对\r\n\r\n短阵房性心动过速\r\n\r\n偶发室性早搏　　　　部分成对\r\n\r\nHRV SD>50ms","AlyTimeSpan":"0.0:0:4","UploadTime":"2018-11-21T17:48:52.3469683+08:00","Status":1}
+[Info 2018/11/21 17:48:57] : {"ID":null,"DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1904271VV6X6","DGSResult":"        本记录数据时长00:04:18,总计237次心搏,平均心率为60次/分.未检测到心动过速事件发生.未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        未检测到房性早搏发生.\r\n        当前设置选择了CH1,CH2和CH3进行ST段事件分析.未检测到ST段抬高/压低事件发生.","AlyTimeSpan":"0.0:0:2","UploadTime":"2018-11-21T17:48:57.0456221+08:00","Status":1}
+[Info 2018/11/21 17:48:57] : {"ID":"20","DocName":"","DocAccount":"admin","RoleID":"0","RecordID":"H1904271VV6X6","DGSResult":"        本记录数据时长00:04:18,总计237次心搏,平均心率为60次/分.未检测到心动过速事件发生.未检测到心动过缓事件发生.\r\n        未检测到停搏事件发生.\r\n        未检测到室性早搏发生.\r\n        未检测到房性早搏发生.\r\n        当前设置选择了CH1,CH2和CH3进行ST段事件分析.未检测到ST段抬高/压低事件发生.","AlyTimeSpan":"0.0:0:4","UploadTime":"2018-11-21T17:48:57.0546462+08:00","Status":1}
+[Info 2018/11/23 14:06:47] : Service Start!
+[Debug 2018/11/23 14:06:48] : BeneJudgmentService Start!
+[Info 2018/12/4 8:51:39] : Service Start!
+[Debug 2018/12/4 8:51:41] : BeneJudgmentService Start!
+[Info 2018/12/6 18:44:48] : Service Start!
+[Debug 2018/12/6 18:44:49] : BeneJudgmentService Start!
+[Info 2018/12/10 9:08:06] : Service Start!
+[Debug 2018/12/10 9:08:07] : BeneJudgmentService Start!
+[Info 2018/12/11 9:06:41] : Service Start!
+[Debug 2018/12/11 9:06:42] : BeneJudgmentService Start!
+[Info 2018/12/12 9:50:25] : Service Start!
+[Debug 2018/12/12 9:50:26] : BeneJudgmentService Start!
+[Info 2018/12/13 8:57:47] : Service Start!
+[Debug 2018/12/13 8:57:48] : BeneJudgmentService Start!
+[Info 2018/12/14 9:00:11] : Service Start!
+[Debug 2018/12/14 9:00:12] : BeneJudgmentService Start!
+[Info 2018/12/19 8:46:36] : Service Start!
+[Debug 2018/12/19 8:46:36] : BeneJudgmentService Start!
+[Info 2018/12/27 18:04:24] : Service Start!
+[Debug 2018/12/27 18:04:25] : BeneJudgmentService Start!
+[Info 2018/12/27 19:16:20] : Service Start!
+[Debug 2018/12/27 19:16:22] : BeneJudgmentService Start!
+[Info 2018/12/28 12:43:58] : Service Start!
+[Debug 2018/12/28 12:43:59] : BeneJudgmentService Start!
+[Error 2018/12/28 12:44:00] : UnhandledException caught : Failed to start HTTP server
+[Error 2018/12/28 12:44:00] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2018/12/28 12:44:00] : Runtime terminating: True
+[Info 2018/12/28 13:33:00] : Service Start!
+[Debug 2018/12/28 13:33:01] : BeneJudgmentService Start!
+[Error 2018/12/28 13:33:01] : UnhandledException caught : Failed to start HTTP server
+[Error 2018/12/28 13:33:01] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2018/12/28 13:33:01] : Runtime terminating: True
+[Info 2018/12/29 17:09:43] : Service Start!
+[Debug 2018/12/29 17:09:44] : BeneJudgmentService Start!
+[Info 2018/12/29 17:19:34] : Service Start!
+[Debug 2018/12/29 17:19:35] : BeneJudgmentService Start!
+[Info 2019/1/4 11:23:25] : Service Start!
+[Debug 2019/1/4 11:23:26] : BeneJudgmentService Start!
+[Info 2019/1/7 15:39:55] : Service Start!
+[Debug 2019/1/7 15:39:55] : BeneJudgmentService Start!
+[Info 2019/1/7 15:57:28] : Service Start!
+[Debug 2019/1/7 15:57:29] : BeneJudgmentService Start!
+[Info 2019/1/9 18:09:11] : Service Start!
+[Debug 2019/1/9 18:09:12] : BeneJudgmentService Start!
+[Info 2019/1/9 18:11:24] : Service Start!
+[Debug 2019/1/9 18:11:25] : BeneJudgmentService Start!
+[Info 2019/1/14 8:51:02] : Service Start!
+[Debug 2019/1/14 8:51:03] : BeneJudgmentService Start!
+[Info 2019/1/15 9:05:51] : Service Start!
+[Debug 2019/1/15 9:05:52] : BeneJudgmentService Start!
+[Info 2019/1/15 9:06:47] : Service Start!
+[Debug 2019/1/15 9:06:47] : BeneJudgmentService Start!
+[Info 2019/1/23 13:05:40] : Service Start!
+[Debug 2019/1/23 13:05:41] : BeneJudgmentService Start!
+[Info 2019/1/23 18:07:42] : Service Start!
+[Debug 2019/1/23 18:07:45] : BeneJudgmentService Start!
+[Info 2019/1/24 17:11:51] : Service Start!
+[Debug 2019/1/24 17:11:52] : BeneJudgmentService Start!
+[Info 2019/1/24 17:14:12] : Service Start!
+[Debug 2019/1/24 17:14:13] : BeneJudgmentService Start!
+[Info 2019/2/13 16:21:32] : Service Start!
+[Debug 2019/2/13 16:21:33] : BeneJudgmentService Start!
+[Info 2019/2/18 9:04:49] : Service Start!
+[Debug 2019/2/18 9:04:50] : BeneJudgmentService Start!
+[Info 2019/2/19 14:11:06] : Service Start!
+[Debug 2019/2/19 14:11:06] : BeneJudgmentService Start!
+[Info 2019/2/19 14:41:03] : Service Start!
+[Debug 2019/2/19 14:41:07] : BeneJudgmentService Start!
+[Info 2019/2/19 14:54:31] : Service Start!
+[Debug 2019/2/19 14:54:33] : BeneJudgmentService Start!
+[Info 2019/2/19 19:39:36] : Service Start!
+[Debug 2019/2/19 19:39:41] : BeneJudgmentService Start!
+[Info 2019/2/19 19:45:20] : Service Start!
+[Debug 2019/2/19 19:45:22] : BeneJudgmentService Start!
+[Info 2019/2/21 10:39:20] : Service Start!
+[Debug 2019/2/21 10:39:21] : BeneJudgmentService Start!
+[Info 2019/2/26 10:57:30] : Service Start!
+[Debug 2019/2/26 10:57:31] : BeneJudgmentService Start!
+[Info 2019/3/13 8:36:07] : Service Start!
+[Debug 2019/3/13 8:36:07] : BeneJudgmentService Start!
+[Info 2019/3/14 8:37:19] : Service Start!
+[Debug 2019/3/14 8:37:20] : BeneJudgmentService Start!
+[Info 2019/3/14 8:39:48] : Service Start!
+[Debug 2019/3/14 8:39:49] : BeneJudgmentService Start!
+[Info 2019/3/20 19:09:11] : Service Start!
+[Debug 2019/3/20 19:09:12] : BeneJudgmentService Start!
+[Info 2019/3/26 15:47:52] : Service Start!
+[Debug 2019/3/26 15:47:53] : BeneJudgmentService Start!
+[Info 2019/3/29 19:04:47] : Service Start!
+[Debug 2019/3/29 19:04:48] : BeneJudgmentService Start!
+[Info 2019/4/2 8:32:31] : Service Start!
+[Debug 2019/4/2 8:32:32] : BeneJudgmentService Start!
+[Info 2019/4/9 14:01:38] : Service Start!
+[Debug 2019/4/9 14:01:38] : BeneJudgmentService Start!
+[Info 2019/4/10 15:43:34] : Service Start!
+[Debug 2019/4/10 15:43:35] : BeneJudgmentService Start!
+[Info 2019/4/10 16:53:45] : Service Start!
+[Debug 2019/4/10 16:53:46] : BeneJudgmentService Start!
+[Info 2019/4/10 18:30:32] : Service Start!
+[Debug 2019/4/10 18:30:33] : BeneJudgmentService Start!
+[Info 2019/4/10 19:20:46] : Service Start!
+[Debug 2019/4/10 19:20:47] : BeneJudgmentService Start!
+[Info 2019/4/10 20:49:56] : Service Start!
+[Debug 2019/4/10 20:49:57] : BeneJudgmentService Start!
+[Info 2019/4/11 11:00:03] : Service Start!
+[Debug 2019/4/11 11:00:03] : BeneJudgmentService Start!
+[Info 2019/4/11 17:19:03] : Service Start!
+[Debug 2019/4/11 17:19:04] : BeneJudgmentService Start!
+[Info 2019/4/12 8:31:48] : Service Start!
+[Debug 2019/4/12 8:31:49] : BeneJudgmentService Start!
+[Info 2019/4/15 8:31:59] : Service Start!
+[Debug 2019/4/15 8:31:59] : BeneJudgmentService Start!
+[Info 2019/4/15 18:36:11] : Service Start!
+[Debug 2019/4/15 18:36:12] : BeneJudgmentService Start!
+[Info 2019/4/17 8:39:24] : Service Start!
+[Debug 2019/4/17 8:39:24] : BeneJudgmentService Start!
+[Info 2019/4/18 8:30:33] : Service Start!
+[Debug 2019/4/18 8:30:34] : BeneJudgmentService Start!
+[Info 2019/4/23 10:22:47] : Service Start!
+[Debug 2019/4/23 10:22:48] : BeneJudgmentService Start!
+[Info 2019/4/29 8:48:50] : Service Start!
+[Debug 2019/4/29 8:48:51] : BeneJudgmentService Start!
+[Info 2019/5/6 8:33:23] : Service Start!
+[Debug 2019/5/6 8:33:24] : BeneJudgmentService Start!
+[Info 2019/5/14 8:39:22] : Service Start!
+[Debug 2019/5/14 8:39:23] : BeneJudgmentService Start!
+[Info 2019/5/16 8:30:23] : Service Start!
+[Debug 2019/5/16 8:30:23] : BeneJudgmentService Start!
+[Info 2019/5/17 8:51:01] : Service Start!
+[Debug 2019/5/17 8:51:02] : BeneJudgmentService Start!
+[Info 2019/6/1 17:52:45] : Service Start!
+[Debug 2019/6/1 17:52:45] : BeneJudgmentService Start!
+[Info 2019/6/1 17:56:41] : Service Start!
+[Debug 2019/6/1 17:56:42] : BeneJudgmentService Start!
+[Info 2019/6/11 9:20:47] : Service Start!
+[Debug 2019/6/11 9:20:47] : BeneJudgmentService Start!
+[Info 2019/6/13 8:47:44] : Service Start!
+[Debug 2019/6/13 8:47:45] : BeneJudgmentService Start!
+[Info 2019/6/18 8:50:13] : Service Start!
+[Debug 2019/6/18 8:50:13] : BeneJudgmentService Start!
+[Info 2019/6/25 10:09:06] : Service Start!
+[Debug 2019/6/25 10:09:07] : BeneJudgmentService Start!
+[Info 2019/7/1 8:41:07] : Service Start!
+[Debug 2019/7/1 8:41:08] : BeneJudgmentService Start!
+[Info 2019/7/11 8:35:07] : Service Start!
+[Debug 2019/7/11 8:35:08] : BeneJudgmentService Start!
+[Info 2019/7/26 8:09:54] : Service Start!
+[Debug 2019/7/26 8:09:55] : BeneJudgmentService Start!
+[Info 2019/8/15 8:27:18] : Service Start!
+[Debug 2019/8/15 8:27:19] : BeneJudgmentService Start!
+[Info 2019/8/15 14:07:01] : Service Start!
+[Debug 2019/8/15 14:07:02] : BeneJudgmentService Start!
+[Info 2019/8/27 8:49:33] : Service Start!
+[Debug 2019/8/27 8:49:33] : BeneJudgmentService Start!
+[Info 2019/8/27 8:51:41] : Service Start!
+[Debug 2019/8/27 8:51:42] : BeneJudgmentService Start!
+[Info 2019/9/11 20:08:53] : Service Start!
+[Debug 2019/9/11 20:08:55] : BeneJudgmentService Start!
+[Info 2019/10/10 8:47:01] : Service Start!
+[Debug 2019/10/10 8:47:02] : BeneJudgmentService Start!
+[Info 2019/10/24 13:25:04] : Service Start!
+[Debug 2019/10/24 13:25:05] : BeneJudgmentService Start!
+[Info 2019/11/1 8:49:04] : Service Start!
+[Debug 2019/11/1 8:49:05] : BeneJudgmentService Start!
+[Info 2019/11/7 8:48:12] : Service Start!
+[Debug 2019/11/7 8:48:13] : BeneJudgmentService Start!
+[Info 2019/11/13 8:57:24] : Service Start!
+[Debug 2019/11/13 8:57:25] : BeneJudgmentService Start!
+[Info 2019/11/14 8:57:19] : Service Start!
+[Debug 2019/11/14 8:57:20] : BeneJudgmentService Start!
+[Info 2019/11/18 8:40:14] : Service Start!
+[Debug 2019/11/18 8:40:15] : BeneJudgmentService Start!
+[Info 2019/11/20 8:41:43] : Service Start!
+[Debug 2019/11/20 8:41:44] : BeneJudgmentService Start!
+[Info 2019/11/21 8:51:04] : Service Start!
+[Debug 2019/11/21 8:51:04] : BeneJudgmentService Start!
+[Info 2019/12/4 8:41:51] : Service Start!
+[Debug 2019/12/4 8:41:51] : BeneJudgmentService Start!
+[Info 2019/12/9 9:00:59] : Service Start!
+[Debug 2019/12/9 9:00:59] : BeneJudgmentService Start!
+[Info 2019/12/10 8:42:48] : Service Start!
+[Debug 2019/12/10 8:42:49] : BeneJudgmentService Start!
+[Info 2019/12/12 8:28:39] : Service Start!
+[Debug 2019/12/12 8:28:39] : BeneJudgmentService Start!
+[Info 2019/12/13 17:35:59] : Service Start!
+[Debug 2019/12/13 17:36:00] : BeneJudgmentService Start!
+[Info 2019/12/17 8:55:23] : Service Start!
+[Debug 2019/12/17 8:55:24] : BeneJudgmentService Start!
+[Info 2019/12/19 8:36:11] : Service Start!
+[Debug 2019/12/19 8:36:11] : BeneJudgmentService Start!
+[Info 2019/12/26 13:48:10] : Service Start!
+[Debug 2019/12/26 13:48:11] : BeneJudgmentService Start!
+[Info 2019/12/26 14:19:16] : Service Start!
+[Debug 2019/12/26 14:19:17] : BeneJudgmentService Start!
+[Info 2019/12/29 9:06:35] : Service Start!
+[Debug 2019/12/29 9:06:35] : BeneJudgmentService Start!
+[Info 2020/1/3 8:50:50] : Service Start!
+[Debug 2020/1/3 8:50:50] : BeneJudgmentService Start!
+[Info 2020/1/9 11:18:26] : Service Start!
+[Debug 2020/1/9 11:18:27] : BeneJudgmentService Start!
+[Info 2020/1/9 14:30:29] : Service Start!
+[Debug 2020/1/9 14:30:30] : BeneJudgmentService Start!
+[Info 2020/1/15 9:14:23] : Service Start!
+[Debug 2020/1/15 9:14:24] : BeneJudgmentService Start!
+[Info 2020/1/16 8:50:50] : Service Start!
+[Debug 2020/1/16 8:50:51] : BeneJudgmentService Start!
+[Info 2020/1/18 9:00:31] : Service Start!
+[Debug 2020/1/18 9:00:32] : BeneJudgmentService Start!
+[Info 2020/2/12 20:08:16] : Service Start!
+[Debug 2020/2/12 20:08:17] : BeneJudgmentService Start!
+[Info 2020/3/2 9:07:50] : Service Start!
+[Debug 2020/3/2 9:07:51] : BeneJudgmentService Start!
+[Info 2020/3/11 18:52:43] : Service Start!
+[Debug 2020/3/11 18:52:43] : BeneJudgmentService Start!
+[Info 2020/3/14 9:11:59] : Service Start!
+[Debug 2020/3/14 9:12:00] : BeneJudgmentService Start!
+[Info 2020/3/19 9:04:10] : Service Start!
+[Debug 2020/3/19 9:04:11] : BeneJudgmentService Start!
+[Info 2020/4/8 11:03:20] : Service Start!
+[Debug 2020/4/8 11:03:21] : BeneJudgmentService Start!
+[Info 2020/4/13 9:12:18] : Service Start!
+[Debug 2020/4/13 9:12:19] : BeneJudgmentService Start!
+[Info 2020/4/16 9:04:20] : Service Start!
+[Debug 2020/4/16 9:04:20] : BeneJudgmentService Start!
+[Info 2020/4/16 15:25:08] : Service Start!
+[Debug 2020/4/16 15:25:09] : BeneJudgmentService Start!
+[Info 2020/4/21 12:43:47] : Service Start!
+[Debug 2020/4/21 12:43:48] : BeneJudgmentService Start!
+[Info 2020/4/21 17:18:15] : Service Start!
+[Debug 2020/4/21 17:18:16] : BeneJudgmentService Start!
+[Info 2020/4/29 11:10:52] : Service Start!
+[Debug 2020/4/29 11:10:53] : BeneJudgmentService Start!
+[Info 2020/4/30 17:54:27] : Service Start!
+[Debug 2020/4/30 17:54:28] : BeneJudgmentService Start!
+[Error 2020/4/30 17:54:28] : UnhandledException caught : Failed to start HTTP server
+[Error 2020/4/30 17:54:28] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2020/4/30 17:54:28] : Runtime terminating: True
+[Info 2020/5/6 8:47:08] : Service Start!
+[Debug 2020/5/6 8:47:08] : BeneJudgmentService Start!
+[Error 2020/5/6 8:47:08] : UnhandledException caught : Failed to start HTTP server
+[Error 2020/5/6 8:47:08] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2020/5/6 8:47:08] : Runtime terminating: True
+[Info 2020/5/7 9:04:20] : Service Start!
+[Debug 2020/5/7 9:04:21] : BeneJudgmentService Start!
+[Error 2020/5/7 9:04:21] : UnhandledException caught : Failed to start HTTP server
+[Error 2020/5/7 9:04:21] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2020/5/7 9:04:21] : Runtime terminating: True
+[Info 2020/5/8 18:13:38] : Service Start!
+[Debug 2020/5/8 18:13:39] : BeneJudgmentService Start!
+[Error 2020/5/8 18:13:39] : UnhandledException caught : Failed to start HTTP server
+[Error 2020/5/8 18:13:39] :    在 NHttp.HttpServer.Start()
+   在 BeneJudgmentService.ServiceManager.HostService(ManualResetEvent resetEvent) 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 361
+   在 BeneJudgmentService.ServiceManager.WebServiceThreadProc() 位置 I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentService\ServiceManager.cs:行号 223
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+[Error 2020/5/8 18:13:39] : Runtime terminating: True

@@ -1,0 +1,16 @@
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultUtility.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\bin\Debug\BeneDGSResultUtility.pdb
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.Form1.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.Properties.Resources.resources
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneJudgmentUtility.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.exe
+I:\work\WorkProject\BeneDGSResultService\BeneDGSResultService\BeneDGSResultUtility\obj\Debug\BeneDGSResultUtility.pdb
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\BeneJudgmentUtility.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\bin\Debug\BeneJudgmentUtility.pdb
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\ResolveAssemblyReference.cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\BeneDGSResultUtility.Form1.resources
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\BeneJudgmentUtility.Properties.Resources.resources
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\BeneJudgmentUtility.csproj.GenerateResource.Cache
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\BeneJudgmentUtility.exe
+I:\work\WorkProject\BeneJudgmentService\BeneJudgmentService\BeneJudgmentUtility\obj\Debug\BeneJudgmentUtility.pdb
